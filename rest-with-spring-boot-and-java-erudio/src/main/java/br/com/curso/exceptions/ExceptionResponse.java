@@ -1,4 +1,4 @@
-package br.com.erudio.exceptions;
+package br.com.curso.exceptions;
 
 import java.io.Serial;
 import java.io.Serializable;
